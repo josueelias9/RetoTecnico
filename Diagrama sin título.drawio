@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T05:05:00.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X8Nt7SW7XFiEKmM4vyN8" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T11:18:28.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GP0NkUkzbtS5bjCCZUP0" version="21.3.0" type="github">
   <diagram name="Página-1" id="Bkhv1BzIpxXXVQEzDvKO">
-    <mxGraphModel dx="1427" dy="314" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="658" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="320" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcJcJloOi9SXId4dmmQ6-36" value="pendientes:&lt;br&gt;&lt;ul&gt;&lt;li&gt;sera una app web o una app mobil?&lt;br&gt;&lt;/li&gt;&lt;li&gt;como el serenazgo recibira la notificaacion, por llamada o por una pagina web?&lt;/li&gt;&lt;li&gt;el serenezgo o la municipalidad cuenta con una API para que le llegue la notificacion?&lt;/li&gt;&lt;li&gt;el servicio sera desplegado localmente o en la nube?&lt;/li&gt;&lt;li&gt;Si la notificacion le tiene que llegar a la municipaildad&lt;/li&gt;&lt;li&gt;la municipalidad cuenta con una central telefonica?&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="690" width="520" height="140" as="geometry" />
+          <mxGeometry x="260" y="490" width="520" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rcJcJloOi9SXId4dmmQ6-40" value="terminos:&lt;br&gt;&lt;ul&gt;&lt;li&gt;municipalidad: cuida a los vecinos&lt;/li&gt;&lt;li&gt;serenazgo: Realiza la accion de control&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-25" y="513" width="270" height="80" as="geometry" />
@@ -64,47 +64,125 @@
         <mxCell id="rcJcJloOi9SXId4dmmQ6-56" value="&lt;div&gt;Como primer alcance se podria proponer lo siguiente:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;nombre del aplicativo &quot;vecino&quot;&lt;/li&gt;&lt;li&gt;Desarrollo de interfaz grafica para que el vecino notifique de algun incidente&lt;/li&gt;&lt;li&gt;Registro y almacenamiento de las notificaciones&lt;/li&gt;&lt;li&gt;Interfaz para serenazgo&lt;/li&gt;&lt;li&gt;El cliente hara llegar su notificacion a traves de un form&lt;/li&gt;&lt;li&gt;El despliegue se hara en la nube&lt;/li&gt;&lt;li&gt;Sistema de autentificacion para los serenazgos&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="220" width="470" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="rcJcJloOi9SXId4dmmQ6-61" value="&lt;h1&gt;Sprint 1&lt;/h1&gt;&lt;div&gt;Form simple para que el vecino ingrese su notificacion.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="440" width="160" height="130" as="geometry" />
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-8" value="&lt;h1&gt;Product backlog&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="630" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rcJcJloOi9SXId4dmmQ6-62" value="&lt;h1&gt;Sprint 2&lt;/h1&gt;&lt;div&gt;Vista de registros de incidencia.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="440" width="160" height="130" as="geometry" />
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-11" value="&lt;h1&gt;Sprint backlog&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="530" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rcJcJloOi9SXId4dmmQ6-63" value="&lt;h1&gt;Sprint 3&lt;/h1&gt;&lt;div&gt;El sereno podra autentificarse para entrar a la web. Una vez dentro podra ver las notificaciones y atenderlas.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="880" y="440" width="160" height="130" as="geometry" />
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;Conceptos&lt;/div&gt;&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;serenazgo: es enviado por la central a atender la emergencia&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;central: recibe la llamada y envia al sereno disponible a atender la emergencia&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;vecino: es quien reporta el incidente&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;infractor: es quien comete un delito, lo cual incita al vecino a notificar a la central&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;municipalidad&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;infracciones&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Funcionamiento actual:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;el vecino notifica que un infractor esta cometiendo un delito. Esta notificacion se realizar por llamada. La central recibe la llamada y verifica que sereno se encuentra disponible. De acuerdo a los datos brindados por el vecino determina si es que se requiere enviar a la policia o no. El serenazgo se desplaza hasta la zona y atiende el incidente.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="680" width="360" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="rcJcJloOi9SXId4dmmQ6-64" value="4 semanas" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="420" as="sourcePoint" />
-            <mxPoint x="720" y="420" as="targetPoint" />
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-19" value="Sprint 1 - 1 semana" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="680" width="960" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-26" value="&lt;b&gt;como&lt;/b&gt; municipalidad&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt; que la app pueda ser instalada en el celular&lt;br&gt;&lt;b&gt;para&lt;/b&gt; que cualquier vecino pueda instalarlo" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HjE2S8ZvpKFxGUU12qkj-19">
+          <mxGeometry x="440" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-1" value="&lt;b&gt;como&lt;/b&gt; municipalidad&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt; que mis vecinos puedan reportar algun acto criminal inmediatamente&lt;br&gt;&lt;b&gt;para&lt;/b&gt; que se sientan mas seguro&lt;br&gt;&lt;i&gt;backend, frontend&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HjE2S8ZvpKFxGUU12qkj-19">
+          <mxGeometry x="270" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-105" value="&lt;b&gt;como&lt;/b&gt; central&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt;&amp;nbsp;poder usar la app para asignar a los serenazgos&lt;br&gt;&lt;b&gt;para&lt;/b&gt; atender a los vecinos" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HjE2S8ZvpKFxGUU12qkj-19">
+          <mxGeometry x="610" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-20" value="Sprint 1 - 2 semanas" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="880" width="960" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-25" value="&lt;b&gt;como&lt;/b&gt; vecino&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt; loggearme inmediatamente al aplicativo&lt;br&gt;&lt;b&gt;para&lt;/b&gt; poder pedir ayuda de manera rapida" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HjE2S8ZvpKFxGUU12qkj-20">
+          <mxGeometry x="210" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-24" value="&lt;b&gt;como&lt;/b&gt; vecino&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt;&amp;nbsp;ver que tan lejos se encuentra el serenazgo asignado&lt;br&gt;&lt;b&gt;para&lt;/b&gt; que me sienta mas seguro" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HjE2S8ZvpKFxGUU12qkj-20">
+          <mxGeometry x="40" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-21" value="Sprint 1 - 4 semanas" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1080" width="960" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-15" value="&lt;b&gt;como&lt;/b&gt; central&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt;&amp;nbsp;que el aplicativo este desplegado en la nube&lt;br&gt;&lt;b&gt;para&lt;/b&gt; evitar tener que comprar servidores" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HjE2S8ZvpKFxGUU12qkj-21">
+          <mxGeometry x="260" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-102" value="&lt;b&gt;como&lt;/b&gt; central&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt; que segun la descripcion entregada por el cliente se de aviso a la policia de manera automatica&lt;br&gt;&lt;b&gt;para&lt;/b&gt; que acelerar nuestra gestion" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HjE2S8ZvpKFxGUU12qkj-21">
+          <mxGeometry x="600" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-86" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-85" target="HjE2S8ZvpKFxGUU12qkj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-85" target="HjE2S8ZvpKFxGUU12qkj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-85" value="&lt;span style=&quot;background-color: initial;&quot;&gt;El acceso al aplicativo debe ser rapido ya que en una emergencia el vecino necesita solicitar ayuda en el menor tiempo posible&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-87" target="HjE2S8ZvpKFxGUU12qkj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-87" value="El fin del aplicativo es hacer que nuestro serenazgo atienda mas rapido a los vecinos" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-88" target="HjE2S8ZvpKFxGUU12qkj-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-88" value="&lt;div&gt;ser capaz de determinar si se requiere de policia&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-89" target="HjE2S8ZvpKFxGUU12qkj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-89" value="&lt;span style=&quot;background-color: initial;&quot;&gt;El vecino deberia ver donde se encuentra el serenazgo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-90" value="&lt;div&gt;El vecino tiene que saber en tiempo real en cuanto tiempo esta llegando el serenazgo a atender la emergencia&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-24" target="HjE2S8ZvpKFxGUU12qkj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-91" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Queremos manejar KPIs:&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;cuantas emergencias se reportaron en el dia&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;cuantas emergencias se atendieron en el dia&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;cuantas emergencias requirieron de atencion policial&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-92" value="&lt;span style=&quot;background-color: initial;&quot;&gt;informar si ya se termino el trabajo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="980" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-93" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Tanto serenazgo como el vecino debe tener acceso al aplicativo via celular&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1020" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-94" value="La central debe notificar a traves del aplicativo a la policia de que se requiere de su presencia" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1060" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-98" target="HjE2S8ZvpKFxGUU12qkj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-98" value="La idea es gastar la menor cantidad posible de dinero ya que la municipalidad no cuenta con los recursos para mantener un aplicativo muy costoso." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1100" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-23" target="HjE2S8ZvpKFxGUU12qkj-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-104" value="La central ya no usara mas el telefono ni para recibir llamadas de los vecinos ni para asignar a los serenazgos. En su lugar usara la plataforma." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1140" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-109" value="&lt;h1&gt;Despliegue&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="630" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-110" value="&lt;h1&gt;Administrador&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="630" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-111" value="&lt;h1&gt;Usuario&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="630" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-91" target="HjE2S8ZvpKFxGUU12qkj-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="930" as="sourcePoint" />
+            <mxPoint x="1020" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rcJcJloOi9SXId4dmmQ6-65" value="4 semanas" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="420" as="sourcePoint" />
-            <mxPoint x="880" y="420" as="targetPoint" />
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HjE2S8ZvpKFxGUU12qkj-104" target="HjE2S8ZvpKFxGUU12qkj-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1160" as="sourcePoint" />
+            <mxPoint x="1370" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rcJcJloOi9SXId4dmmQ6-66" value="4 semanas" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="420" as="sourcePoint" />
-            <mxPoint x="1040" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rcJcJloOi9SXId4dmmQ6-67" value="&lt;h1&gt;Sprint 4&lt;/h1&gt;&lt;div&gt;Despliegue en la nube&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="440" width="160" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="rcJcJloOi9SXId4dmmQ6-68" value="4 semanas" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1040" y="420" as="sourcePoint" />
-            <mxPoint x="1200" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HjE2S8ZvpKFxGUU12qkj-1" value="&lt;b&gt;como&lt;/b&gt; municipalidad&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt; que mis vecinos puedan reportar algun acto criminal inmediatamente&lt;br&gt;&lt;b&gt;para&lt;/b&gt; que se sientan mas seguro" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="640" y="640" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="HjE2S8ZvpKFxGUU12qkj-4" value="&lt;b&gt;como&lt;/b&gt; vecino&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt;&amp;nbsp;que el serenazgo me atienda rapidamente ante un problema&lt;br&gt;&lt;b&gt;para&lt;/b&gt; sentirme protegido" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="810" y="640" width="160" height="120" as="geometry" />
+        <mxCell id="HjE2S8ZvpKFxGUU12qkj-23" value="&lt;b&gt;como&lt;/b&gt;&amp;nbsp;central&lt;br&gt;&lt;b&gt;quiero&lt;/b&gt; ver cuantas infracciones se cometerion cierto dia&lt;br&gt;&lt;b&gt;para&lt;/b&gt;&amp;nbsp;poder tener una idea de la delincuencia en el distrito" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1120" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
